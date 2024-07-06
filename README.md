@@ -10,7 +10,7 @@ The Titanic dataset used in this project contains information about passengers, 
 
 ## Contents
 
-- `Titanic_EDA.ipynb`: Jupyter notebook containing the complete analysis and visualizations.
+- `EDA(Titanic).ipynb`: Jupyter notebook containing the complete analysis and visualizations.
 - `README.md`: This file providing an overview of the project.
 
 ## Key Insights
